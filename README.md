@@ -1,25 +1,26 @@
 # Scanner de Ficheiros e Credenciais Expostas
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador de Ficheiros Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-Scanner de superficie de ataque para detecao automatizada de ficheiros de ambiente, copias de seguranca, repositorios git e credenciais expostas.
+Scanner de superficie de ataque para deteção automatizada de ficheiros de ambiente, copias de seguranca, repositorios git e credenciais expostas.
 
-Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT**.
+Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT Portugal**.
 
 ***
 
-## Ambito de Detecao de Superficie
+## Ambito de Deteção de Superficie
 
-* **Variaveis de Ambiente e Chaves**: Inspecao de ficheiros `.env`, `.env.local` e `.env.production`.
+* **Variaveis de Ambiente e Chaves**: Inspeção de ficheiros `.env`, `.env.local` e `.env.production`.
 * **Metadados de Codigo-Fonte**: Verificacao de diretorios `/.git/HEAD` e `/.git/config`.
-* **Copias de Seguranca de Dados**: Detecao de despejos SQL como `backup.sql`, `dump.sql` e `database.sql`.
+* **Copias de Seguranca de Dados**: Deteção de despejos SQL como `backup.sql`, `dump.sql` e `database.sql`.
 * **Infraestrutura e Orquestracao**: Verificacao de ficheiros `docker-compose.yml` e diagnosticos `phpinfo.php`.
 * **Alinhamento Normativo**: Alinhado com as exigencias do Quadro Nacional de Ciberseguranca do CNCS e RGPD (CNPD).
 
 ***
 
-## Instalacao e Execucao
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior utilizando exclusivamente a biblioteca padrao.
 
@@ -48,8 +49,18 @@ Para auditorias continuas de perimetro, utilize a ferramenta oficial:
 
 ## Consultoria em Ciberseguranca
 
-Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT**.
+Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT Portugal**.
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
