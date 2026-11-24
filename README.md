@@ -1,4 +1,4 @@
-# Scanner de Ficheiros e Credenciais Expostas | TAVARDT Portugal
+# Scanner de Ficheiros e Credenciais Expostas
 
 [![Verificador de Ficheiros Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para auditorias continuas de perimetro, utilize a ferramenta oficial:
 ## Consultoria em Ciberseguranca
 
 Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
