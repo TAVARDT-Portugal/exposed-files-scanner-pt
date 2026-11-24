@@ -5,7 +5,7 @@
 
 Scanner de superficie de ataque para detecao automatizada de ficheiros de ambiente, copias de seguranca, repositorios git e credenciais expostas.
 
-Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py empresa.pt -json
 Para auditorias continuas de perimetro, utilize a ferramenta oficial:
 
 * **Verificador de Ficheiros Expostos**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Ciberseguranca
 
-Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT Portugal**.
+Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT**.
 
 ***
 
