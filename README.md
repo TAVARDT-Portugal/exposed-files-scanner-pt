@@ -1,14 +1,13 @@
 # Scanner de Ficheiros e Credenciais Expostas | TAVARDT Portugal
 
 [![Verificador de Ficheiros Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Scanner de superficie de ataque para detecao automatizada de ficheiros de ambiente, copias de seguranca, repositorios git e credenciais expostas.
 
-Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT Portugal**.
 
----
+***
 
 ## Ambito de Detecao de Superficie
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **[TAVARDT Por
 * **Infraestrutura e Orquestracao**: Verificacao de ficheiros `docker-compose.yml` e diagnosticos `phpinfo.php`.
 * **Alinhamento Normativo**: Alinhado com as exigencias do Quadro Nacional de Ciberseguranca do CNCS e RGPD (CNPD).
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python scanner.py empresa.pt
 Para exportar os resultados em JSON:
 
 ```bash
-python scanner.py empresa.pt --json
+python scanner.py empresa.pt -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para auditorias continuas de perimetro, utilize a ferramenta oficial:
 
-* **[Verificador de Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)**
+* **Verificador de Ficheiros Expostos**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Ciberseguranca
 
-Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT Portugal**.
