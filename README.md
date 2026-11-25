@@ -1,12 +1,10 @@
 # Scanner de Ficheiros e Credenciais Expostas
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador de Ficheiros Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Scanner de superficie de ataque para deteção automatizada de ficheiros de ambiente, copias de seguranca, repositorios git e credenciais expostas.
-
-Desenvolvido e mantido pela divisao de ciberseguranca ofensiva da **TAVARDT Portugal**.
 
 ***
 
@@ -38,15 +36,6 @@ python scanner.py empresa.pt -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditorias continuas de perimetro, utilize a ferramenta oficial:
-
-* **Verificador de Ficheiros Expostos**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Ciberseguranca
 
 Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal, contacte a equipa da **TAVARDT Portugal**.
@@ -62,7 +51,7 @@ Para projetos de seguranca ofensiva e auditoria de vulnerabilidades em Portugal,
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o ficheiro [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
